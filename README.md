@@ -1,7 +1,7 @@
 ## C-Sharp
 This file contains the C# project work flow.
 
-## First Project-DailyReportAssignment
+## First Project-DailyReport
 This is a small program developed for college to get the daily report from the students.
 It contains string, boolean and integer data types.
 
