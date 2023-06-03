@@ -8,5 +8,6 @@ It contains string, boolean and integer data types.
 ## Second Project-VariablesAndDataTypes
 This is the second small project which contains different data types in C# and casting them into other data types.
 
-
+## Third Program-Math Operations
+This projects consists of all math operations in C#, explicit and implicit math casts/conversion and math with strings.
 
