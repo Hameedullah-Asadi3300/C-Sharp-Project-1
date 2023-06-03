@@ -1,0 +1,8 @@
+C:\Users\hamee\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe.config
+C:\Users\hamee\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe
+C:\Users\hamee\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.pdb
+C:\Users\hamee\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.AssemblyReference.cache
+C:\Users\hamee\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamee\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hamee\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.exe
+C:\Users\hamee\Desktop\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.pdb
