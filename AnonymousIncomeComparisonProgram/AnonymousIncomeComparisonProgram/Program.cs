@@ -35,6 +35,14 @@ namespace AnonymousIncomeComparisonProgram
             Console.WriteLine(highPaid); //prints the comparison output as true/false. here the output is true
             Console.WriteLine("Person 1 makes more money than Person 2"); //prints the final program statement
             Console.ReadLine(); //keeps the console open
+
+
+
+
+          
+
+
+
         }
     }
 }
