@@ -113,15 +113,6 @@ namespace MathOperation
             Console.ReadLine();
 
 
-
-            double num22 = 16.43230923;
-            float num23 = 8.8f;
-            float total6 = (float)num22 + num23;
-            Console.WriteLine(total6);
-            Console.ReadLine();
-
-
-
             
 
 
