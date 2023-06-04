@@ -17,3 +17,9 @@ are very useful when dealing with user's output.
 
 ## Fifth Program-MathConsoleApplication
 This little was part of my assignment which includes a few math operations, boolean, and comparison operators.
+
+## Sixth program-AnonymousIncomeComparisonProgram
+This is a comperhensive small programs with following functionality:
+1. Asks for users output on hourly rate, hours worked per week of two persons.
+2. prints the annual salary of both persons.
+3. compare both salaries and prints whose salaray is up using boolean data type.
