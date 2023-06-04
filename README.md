@@ -11,3 +11,6 @@ This is the second small project which contains different data types in C# and c
 ## Third Program-Math Operations
 This projects consists of all math operations in C#, explicit and implicit math casts/conversion and math with strings.
 
+## Fourth program-MathAndComparisonOperators
+This little project contains the basic comparison operators used in C# programming language. Comparison operators
+are very useful when dealing with user's output.
