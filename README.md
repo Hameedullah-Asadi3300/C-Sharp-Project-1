@@ -23,3 +23,6 @@ This is a comperhensive small programs with following functionality:
 1. Asks for users output on hourly rate, hours worked per week of two persons.
 2. prints the annual salary of both persons.
 3. compare both salaries and prints whose salaray is up using boolean data type.
+
+## Seventh Program-BooleanLogic
+This consoleApp contains boolean operators like &&, ||, ==, !=, and ^.
