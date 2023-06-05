@@ -34,11 +34,14 @@ namespace BooleanLogic
             Console.WriteLine(false != false);
 
 
-            //This operator will evaluate if one of the value is ture, bit not both as follows
+            //This operator will evaluate if one of the value is ture, but not both as follows
             Console.WriteLine(true ^ true);
             Console.WriteLine(true ^ false);
             Console.WriteLine(false ^ false);
-            Console.ReadLine();
+
+
+       
+
         }
     }
 }
