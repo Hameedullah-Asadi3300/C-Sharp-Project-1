@@ -10,6 +10,7 @@ namespace TemperatureConsoleApp
     {
         static void Main()
         {
+        
             int roomTemperature = 35;  //The int data type variable/roomTemperture stores the value of 35
 
             Console.WriteLine("What is your name?");  //Prints on console
