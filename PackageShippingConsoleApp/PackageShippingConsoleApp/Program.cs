@@ -15,6 +15,7 @@ namespace PackageShippingConsoleApp
             int packageHeight = 2;
             int packagelength = 50;
 
+
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below:"); //Prints the welcome message to the console app
             Console.WriteLine("Please enter the pakage weight.");   //Prints to the console app which directs the user
             int weight = Convert.ToInt32(Console.ReadLine());   //Converts the user's input to int32 data type
