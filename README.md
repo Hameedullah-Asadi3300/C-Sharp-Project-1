@@ -26,3 +26,7 @@ This is a comperhensive small programs with following functionality:
 
 ## Seventh Program-BooleanLogic
 This consoleApp contains boolean operators like &&, ||, ==, !=, and ^.
+
+## Eight Program-InsuranceApproval
+This is a consoleApp evaluates the applicants for receiving the car insurance considering the age and speeding tickets.
+It asks the applicant's age, DUI and speeding tickets.
