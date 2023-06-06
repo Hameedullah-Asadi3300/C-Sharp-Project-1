@@ -34,3 +34,7 @@ It asks the applicant's age, DUI and speeding tickets.
 ## Ninth Program-TemperatureConsoleApp
 This little prpgrams contains branching/if,else if, and else statement in C#.
 
+//Tenth Prpgram-SwitchStatementConsoleApp
+I have used switch statement in this little console app. The user prompted to write their favorite number from 1-7 and then 
+it matches the value with 7 cases contains all weekdays.
+the keyword "default" also has been used and to print the message if the input does not match the cases.
