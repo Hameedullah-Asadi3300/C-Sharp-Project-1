@@ -38,3 +38,6 @@ This little prpgrams contains branching/if,else if, and else statement in C#.
 I have used switch statement in this little console app. The user prompted to write their favorite number from 1-7 and then 
 it matches the value with 7 cases contains all weekdays.
 the keyword "default" also has been used and to print the message if the input does not match the cases.
+
+## Eleventh Progrram-C#String
+In this project, I worked on strings in C#, applied different methods and esacpe characters in this program
