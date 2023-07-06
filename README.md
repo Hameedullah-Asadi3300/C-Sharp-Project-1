@@ -1,7 +1,4 @@
-## C-Sharp
 ![image](https://github.com/Hameedullah-Asadi3300/C-Sharp-Project-1/assets/123219655/96014bf5-0cc0-4e9d-b2cd-dd7c40d73357)
-
-
 This file contains the C# project work flow as follows:
 1. DailyReport
 2. VariablesAndDataTypes
