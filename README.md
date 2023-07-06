@@ -14,7 +14,7 @@ This file contains the C# project work flow as follows:
 10. SwitchStatementConsoleApp
 11. C#String
     
-//Description
+## Description
 ## DailyReport
 This is a small program developed for college to get the daily report from the students.
 It contains string, boolean and integer data types.
