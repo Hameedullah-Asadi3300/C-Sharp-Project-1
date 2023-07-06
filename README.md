@@ -1,5 +1,10 @@
 ## C-Sharp
-This file contains the C# project work flow.
+This file contains the C# project work flow as follows:
+https://github.com/Hameedullah-Asadi3300/C-Sharp-Project-1.git
+
+
+
+
 
 ## First Project-DailyReport
 This is a small program developed for college to get the daily report from the students.
