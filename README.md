@@ -2,11 +2,17 @@
 ![image](https://github.com/Hameedullah-Asadi3300/C-Sharp-Project-1/assets/123219655/cc9b2e9c-ae9a-4388-8826-2549933d0125)
 
 This file contains the C# project work flow as follows:
-
-
-
-List https://github.com/Hameedullah-Asadi3300/C-Sharp-Project-1/tree/main/DailyReportAssignment  
-https://github.com/Hameedullah-Asadi3300/C-Sharp-Project-1/tree/main/VariablesAndDataTypes 
+1. ## DailyReport
+2. ## VariablesAndDataTypes
+3. ## MathOperations
+4. ## MathAndComparisonOperators
+5. ## MathConsoleApplication
+6. ## AnonymousIncomeComparisonProgram
+7. ## BooleanLogic
+8. ## InsuranceApproval
+9. ## TemperatureConsoleApp
+10. ## SwitchStatementConsoleApp
+11. ## C#String
 
 
 
